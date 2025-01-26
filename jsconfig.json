@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".", // Sets the base path for imports (root of the project)
+    "paths": {
+      "@/*": ["./*"] // Maps '@/' to the project root
+    }
+  }
+}
